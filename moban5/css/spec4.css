@@ -1,0 +1,64 @@
+﻿.mainbox{margin: 0 auto;overflow: hidden;width: 960px;}
+.topic_top{margin: 15px auto 50px;overflow: hidden;width: 100%;}
+.top_content{background: url("../images/desc_bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);border-radius: 6px;display: inline;float: left;height: 170px;margin: 36px 0 0;overflow: hidden;padding: 16px;width: 480px;color: #fff;}
+.top_content h1{font-family: "Hiragino Sans GB W3","microsoft yahei","tahoma","serif";font-size: 24px;font-weight: 100;line-height: 40px;}
+.top_content h1 a{color: #fff;}
+.top_content h1 span{margin-left: 5px;font-size: 12px;}
+.top_content p{color: #fff;text-indent: 2em;line-height: 26px;font-size: 14px;}
+.yxtagmbx,.yxtagmbx a{color:#000;}
+.sp-nav-newc{width:948px;border-radius: 10px;display:inline-block;margin: 10px auto;padding:10px 0;overflow: hidden;text-align: center;background-image:url(../images/sp_bg.png);}
+.sp-nav-newc ul.spnavc li{color: #333;display: inline;float: left;margin-right: 10px;margin: 5px 0 5px 10px;height:30px;}
+.sp-nav-newc ul.spnavc li a{border-radius: 5px;color: #fff;display: block;font-size: 14px;font-weight: 500;overflow: hidden;padding: 5px 8px;}
+.sp-nav-newc a:hover{text-decoration: none;}
+.sp-nav-newc ul.spnavc li a:hover, .sp-nav-newc ul.spnavc a.over, .sp-nav-newc ul.spnavc li.over a{background: none repeat scroll 0 0 #1592e5;color: #fff ;}
+.spnavc{clear: both;height: auto;overflow: auto;}
+.mainbody{width: 960px;}
+.mainbody ul{width: 1100px;overflow: hidden;}
+.mainbody ul li{float: left;display: block;width: 230px;padding: 10px 10px;background: #FFF;border: 1px solid #e5e5e5;font-size: 14px;margin-right: 20px;margin-bottom: 20px;box-shadow: 0 3px 3px #E6E6E6;}
+.mainbody ul li img{width: 230px;border-radius: 2px;}
+.mainbody ul .like-img-text{display: block;width: 230px;line-height: 30px;height: 25px;text-align: center;background: #FFF;overflow: hidden;}
+.mainbody ul .like-img-text:hover{color:#1592e5;}
+.Clbc_top{margin: 0 auto;overflow: hidden;width: 1200px;float:left;}
+.tagtypelist{min-height: 680px;padding-bottom: 15px;}
+.tags_list{padding: 15px 0 0 0;}
+.tags_list dl{margin-bottom: 20px;}
+.tags_list dt{
+	height: 32px;
+	line-height: 32px;
+	background-color: #DDDDDD;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+.tags_list dt a{
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #444;
+	padding-left: 5px;
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #0B74AB;
+}
+.tags_list dd a{display: inline-block;width: 130px;margin-top: 8px;font-size: 14px;padding-left: 10px;}
+.tags_list dd a:hover{color: #1592E5;}
+.shuaigeC{width: 100%;min-width: 960px;height: 387px;overflow: hidden;margin-bottom: 12px;}
+.focusbox{position: relative;overflow: hidden;zoom: 1;}
+#fullbanner{width: 960px;height: 387px;margin: auto;position: relative}
+#fullbanner li .imgwkc{width: 269px;height: 387px;overflow: hidden;float: left;display: inline;margin-right: 1px}
+#fullbanner li .imgwkc a{display: block;width: 269px;height: 387px;overflow: hidden;position: relative}
+#fullbanner li .imgwkc a span{display: block;width: 269px;height: 35px;padding: 0 6px;text-align: left;line-height: 35px;background: rgba(0,0,0,0.3);font-size: 14px;color: #fff;position: absolute;bottom: 0;left: 0}
+#fullbanner .imgwkc img{width: 269px;height: 387px}
+#fullbanner ul{width: 960px;height: 424px}
+#fullbanner .wrappic{overflow: visible;position: absolute}
+#fullbanner .next, #fullbanner .prev{filter: alpha(Opacity=70);opacity: .7;position: absolute;top: 50%;margin-top: -25px;margin-left: 5px;background-color: #303030;z-index: 3}
+#fullbanner .next:hover, #fullbanner .prev:hover{background-color: #0b4296}
+#fullbanner .next{margin: -25px 5px 0 0;right: 0}
+#fullbanner .mask-left, #fullbanner .mask-right, #fullbanner .plan{background: #fff;z-index: 1;position: absolute;top: 0;left: 0;width: 960px;height: 414px;overflow: hidden;left: 2088px}
+#fullbanner .mask-right, #fullbanner .mask-left{z-index: 4;left: -960px;filter: alpha(Opacity=80);opacity: .8;background: #fff;overflow: hidden}
+#fullbanner .mask-right{left: 960px}
+.arrow-left, .arrow-right{background: url(../images/icon-sd26986d847.png) no-repeat}
+.arrow-left{background-position: 15px 12px;height: 50px;width: 50px}
+.arrow-left:hover{background-position: -45px 12px}
+.arrow-right{background-position: -103px 12px;height: 50px;width: 50px}
+.arrow-right:hover{background-position: -163px 12px}
